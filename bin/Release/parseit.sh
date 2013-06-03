@@ -1,2 +1,2 @@
-dev_api input.txt
+webmigrate input.txt
 pause
