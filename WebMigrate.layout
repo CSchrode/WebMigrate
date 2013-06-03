@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="TODO" open="1" top="0" tabpos="2">
+		<Cursor position="2204" topLine="42" />
+	</File>
+	<File name="include/webmigrate.h" open="1" top="1" tabpos="5">
+		<Cursor position="79" topLine="21" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="272" topLine="0" />
+	</File>
+	<File name="src/tests/webmigrate_test.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="4257" topLine="219" />
+	</File>
+	<File name="src/webmigrate.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="4144" topLine="132" />
+	</File>
+</CodeBlocks_layout_file>

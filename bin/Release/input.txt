@@ -1,0 +1,106 @@
+# My Card and Account
+http://www.wadsworthlibrary.com/main/apply_card.cfm
+http://www.wadsworthlibrary.com/PersonalIdTutorial.cfm
+http://www.wadsworthlibrary.com/main/services.cfm?page_id=60
+http://www.wadsworthlibrary.com/main/notices.cfm
+
+# Books & More
+http://www.wadsworthlibrary.com/main/about_us.cfm?page_id=143
+http://www.wadsworthlibrary.com/main/adults.cfm?page_id=235
+
+-- Digital Media
+http://www.wadsworthlibrary.com/main/freegal.cfm
+http://www.wadsworthlibrary.com/main/adults.cfm?page_id=230#FAQ
+
+-- Blogs and Book Talk
+http://www.wadsworthlibrary.com/main/bookmomsbookclub.cfm
+http://www.wadsworthlibrary.com/main/adults.cfm?page_id=90
+http://www.wadsworthlibrary.com/main/novel_ideas.cfm
+http://www.wadsworthlibrary.com/main/soundandvision.cfm
+http://www.wadsworthlibrary.com/main/staffpicks.cfm
+http://www.wadsworthlibrary.com/main/adults.cfm?page_id=64
+
+# About Us
+http://www.wadsworthlibrary.com/main/about_us.cfm?page_id=1
+http://www.wadsworthlibrary.com/main/library_news.cfm
+http://www.wadsworthlibrary.com/main/libraryhours.cfm
+http://www.wadsworthlibrary.com/main/contactpage.cfm
+http://www.wadsworthlibrary.com/main/about_us.cfm?page_id=73
+http://www.wadsworthlibrary.com/main/about_us.cfm?page_id=22
+http://www.wadsworthlibrary.com/main/virtualmap/virtualmap.cfm
+http://www.wadsworthlibrary.com/main/about_us.cfm?page_id=209
+
+-- Organization
+http://www.wadsworthlibrary.com/main/about_us.cfm?page_id=2
+http://www.wadsworthlibrary.com/main/about_us.cfm?page_id=18
+http://www.wadsworthlibrary.com/main/about_us.cfm?page_id=19
+http://www.wadsworthlibrary.com/main/about_us.cfm?page_id=20
+http://www.wadsworthlibrary.com/main/employment.cfm
+http://www.wadsworthlibrary.com/main/about_us.cfm?page_id=231
+
+# Events
+http://www.wadsworthlibrary.com/main/events.cfm
+http://www.wadsworthlibrary.com/teens/teens_program.cfm
+
+# Services
+http://www.wadsworthlibrary.com/main/services.cfm?page_id=220
+http://www.wadsworthlibrary.com/main/services.cfm?page_id=216
+http://www.wadsworthlibrary.com/main/about_us.cfm?page_id=21
+http://www.wadsworthlibrary.com/main/meetingroom.cfm
+http://www.youtube.com/user/wadsworthlibrary/featured
+
+# Outreach Services
+http://www.wadsworthlibrary.com/main/outreach.cfm?page_id=65
+http://www.wadsworthlibrary.com/main/pelican.cfm
+http://www.wadsworthlibrary.com/main/outreach.cfm?page_id=67
+http://www.wadsworthlibrary.com/main/outreach.cfm?page_id=222
+
+# Research Resources
+http://www.wadsworthlibrary.com/main/research.cfm?page_id=218
+http://www.wadsworthlibrary.com/main/research.cfm?page_id=217
+http://www.wadsworthlibrary.com/main/tellmemore.cfm
+http://www.wadsworthlibrary.com/main/research.cfm?page_id=50
+http://www.wadsworthlibrary.com/main/research.cfm?page_id=203
+http://www.wadsworthlibrary.com/main/digital_history.cfm
+
+-- Talk With Us
+http://www.wadsworthlibrary.com/main/questions.cfm
+http://www.wadsworthlibrary.com/main/livechat.cfm
+
+# Adults
+http://www.wadsworthlibrary.com/main/adult_news.cfm
+http://www.wadsworthlibrary.com/main/srp.cfm
+http://www.wadsworthlibrary.com/main/adults.cfm?page_id=156
+http://www.wadsworthlibrary.com/main/adults.cfm?page_id=150
+
+# Children's
+http://www.wadsworthlibrary.com/children/index.cfm
+http://www.wadsworthlibrary.com/children/childrensgames.cfm
+http://www.wadsworthlibrary.com/children/children.cfm?page_id=81
+http://www.wadsworthlibrary.com/children/childrensprograms.cfm
+http://www.wadsworthlibrary.com/children/children.cfm?page_id=83
+http://www.wadsworthlibrary.com/children/children.cfm?page_id=183
+http://www.wadsworthlibrary.com/children/flixchooser.cfm
+http://www.wadsworthlibrary.com/children/childrensplayaway.cfm
+http://www.wadsworthlibrary.com/children/children.cfm?page_id=236
+http://www.wadsworthlibrary.com/children/srp.cfm
+http://www.wadsworthlibrary.com/children/children.cfm?page_id=222
+http://www.wadsworthlibrary.com/children/children.cfm?page_id=191
+
+# Teen Zone
+http://www.wadsworthlibrary.com/teens/index.cfm
+http://www.wadsworthlibrary.com/teens/teens_program.cfm
+http://www.wadsworthlibrary.com/teens/teens.cfm?page_id=84
+http://www.wadsworthlibrary.com/teens/srp.cfm
+http://www.wadsworthlibrary.com/teens/teens.cfm?page_id=85
+http://www.wadsworthlibrary.com/teens/teens.cfm?page_id=87
+http://www.wadsworthlibrary.com/teens/teens.cfm?page_id=86
+http://www.wadsworthlibrary.com/teens/teens.cfm?page_id=191
+
+# Bottom Navbar
+http://www.wadsworthlibrary.com/main/about_us.cfm?page_id=73
+http://www.wadsworthlibrary.com/main/about_us.cfm?page_id=74
+http://www.wadsworthlibrary.com/main/contactpage.cfm
+http://www.wadsworthlibrary.com/main/libraryhours.cfm
+http://www.wadsworthlibrary.com/main/employment.cfm
+http://www.wadsworthlibrary.com/main/about_us.cfm?page_id=225

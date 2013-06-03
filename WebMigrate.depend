@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1369972143 source:/home/user/Projects/KhaosAPI/src/webmigrate.cpp
+
+1370014711 source:/home/user/Projects/KhaosAPI/main.cpp
+	<boost/filesystem.hpp>
+	<boost/algorithm/string/replace.hpp>
+	<unit++.h>
+	<string>
+	<sstream>
+	"include/webmigrate.h"
+
+1370019283 /home/user/Projects/KhaosAPI/include/webmigrate.h
+	<string>
+	<fstream>
+	<iostream>
+	<algorithm>
+	<vector>
+	<boost/filesystem.hpp>
+	<boost/algorithm/string/split.hpp>
+	<boost/algorithm/string/trim.hpp>
+	<boost/algorithm/string/find.hpp>
+	<boost/algorithm/string/replace.hpp>
+
+1370247981 source:/home/user/OpenSource/WebMigrate/src/webmigrate.cpp
+	"../include/webmigrate.h"
+
+1370247704 source:/home/user/OpenSource/WebMigrate/main.cpp
+	<boost/filesystem.hpp>
+	<boost/algorithm/string/replace.hpp>
+	<string>
+	<sstream>
+	"include/webmigrate.h"
+
+1370247678 /home/user/OpenSource/WebMigrate/include/webmigrate.h
+	<string>
+	<sstream>
+	<fstream>
+	<iostream>
+	<algorithm>
+	<vector>
+	<boost/filesystem.hpp>
+	<boost/algorithm/string/trim.hpp>
+	<boost/algorithm/string/find.hpp>
+	<boost/algorithm/string/replace.hpp>
+
+1370247317 source:/home/user/OpenSource/WebMigrate/src/tests/webmigrate_test.cpp
+	<unit++.h>
+	<sstream>
+	"../../include/webmigrate.h"
+

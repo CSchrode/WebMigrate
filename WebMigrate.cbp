@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="WebMigrate" />
+		<Option platforms="Windows;Unix;" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option platforms="Windows;Unix;" />
+				<Option output="bin/Debug/webmigrate" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O3" />
+					<Add option="-std=c++0x" />
+					<Add option="-Wall" />
+					<Add option="-pg" />
+					<Add option="-g" />
+					<Add option="-DDEVELOPMENT" />
+				</Compiler>
+				<Linker>
+					<Add option="-pg" />
+					<Add library="libunit++.a" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option platforms="Windows;Unix;" />
+				<Option output="bin/Release/webmigrate" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option use_console_runner="0" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Os" />
+			<Add option="-std=c++0x" />
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Linker>
+			<Add option="-s" />
+			<Add library="boost_system" />
+			<Add library="boost_filesystem" />
+		</Linker>
+		<Unit filename="TODO">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="include/webmigrate.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/tests/webmigrate_test.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="src/webmigrate.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
