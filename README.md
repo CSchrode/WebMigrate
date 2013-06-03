@@ -13,7 +13,7 @@ Parsing
 Implementation
 -----
 
-*Simplest Thing That Could Possibly Work*
+[Simplest Thing That Could Possibly Work](http://c2.com/cgi/wiki?DoTheSimplestThingThatCouldPossiblyWork)
 
 Folder Structure:
 
