@@ -16,14 +16,15 @@ Implementation
 *Simplest Thing That Could Possibly Work*
 
 Folder Structure:
+
     ./
         WebMigrate/
             ./old_site
                 [WGET OUTPUT]
-
+                
             ./finished
                 [WEBMIGRATE OUTPUT]
-
+                
             ./webmigrate (binary)
 
 
