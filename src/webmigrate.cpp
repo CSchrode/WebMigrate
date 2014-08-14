@@ -142,7 +142,7 @@ bool ParseDivToFile(string DelimitedFile)
         //< Download
         int lRet = std::system(WgetCommandExecute);
 
-        if(!lRet) {
+        if(lRet != 0) {
             cerr << "wget failed to run. Aborting...";
             _exit(EXIT_FAILURE);
         }
@@ -154,14 +154,17 @@ bool ParseDivToFile(string DelimitedFile)
 
         OutputString << infile.rdbuf();
 
-        string FoundTitle = WebMigrate::ParseDiv(OutputString.str(),
+        string FoundTitle = WebMigrate::ParseDiv(
+            OutputString.str(),
             "<div class=\"title\">",
             "<div",
             "</div>",
-            false);
+            false
+        );
 
         if(FoundTitle.empty()) {
-            FoundTitle = WebMigrate::ParseDiv(OutputString.str(),
+            FoundTitle = WebMigrate::ParseDiv(
+                OutputString.str(),
                 "<div class=\"page_title\">",
                 "<div",
                 "</div>",
@@ -178,10 +181,11 @@ bool ParseDivToFile(string DelimitedFile)
         ofstream outfile(WebMigrate::ToSlug(FoundTitle) + ".php", ios::trunc);
 
         if(outfile.is_open()) {
-            string FormatText = WebMigrate::GetBetween(OutputString.str(),
-                        "<div class=\"rightcontent\">",
-                        "<div class=\"footer\">"
-                        );
+            string FormatText = WebMigrate::GetBetween(
+                OutputString.str(),
+                "<div class=\"rightcontent\">",
+                "<div class=\"footer\">"
+            );
 
             algorithm::ireplace_last(FormatText, "</div>", "");
 

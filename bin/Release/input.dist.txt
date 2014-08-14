@@ -1,0 +1,7 @@
+# Example Section
+http://example.com/page.cfm
+http://example.com/section/page.cfm
+
+-- SubSection
+http://example.com/page2.cfm
+http://example.com/section/page2.cfm

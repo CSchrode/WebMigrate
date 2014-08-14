@@ -1,11 +1,12 @@
 #include <unit++.h>
+using namespace unitpp;
+
 #include <sstream>
 
 #ifndef WEBMIGRATE_H
 #include "../../include/webmigrate.h"
 #endif
 
-using namespace unitpp;
 using namespace std;
 namespace
 {
@@ -144,7 +145,7 @@ class UnitTest : public suite
         //< Download
         int lRet = std::system(WgetCommandExecute);
 
-        if(!lRet) {
+        if(lRet != 0) {
             cerr << "wget failed to run. Aborting...";
             _exit(EXIT_FAILURE);
         }
@@ -212,7 +213,7 @@ class UnitTest : public suite
         //< Download
         int lRet = std::system(WgetCommandExecute);
 
-        if(!lRet) {
+        if(lRet != 0) {
             cerr << "wget failed to run. Aborting...";
             _exit(EXIT_FAILURE);
         }

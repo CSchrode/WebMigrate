@@ -7,7 +7,7 @@ Parsing
 
 1. Must be able to get within <div class="rightcontent"> to </div>
 1. There may be other <div> tags within that parent containter. Keep these.
-1. All links within should point to www.wadsworthlibrary.com - May use wget, study command switches
+1. All links within should point to www.wadsworthlibrary.com - May use wget, switches
 
 
 Implementation
@@ -58,12 +58,12 @@ API Necessary
 *wget-Wrapper*
 
 1. Should write a simple engine for using wget with the switches needed to output it to a directory in a recursive, spidering kind of way
-1. This can probe the sitemap (I think we have one) or even any basic page and spider it
+1. This can probe the sitemap or even any basic page and spider it
 1. May also use curl if wget isn't powerful enough
 
 
 OTHER PROJECTS
 =====
 
-1. Hook CodeIgniter up to MSSQL and read the library hours as an exploratory step in CodeIgniter's adaptability to old database software
+1. Hook CMS up to MSSQL and read the library hours as an exploratory step in CMS's adaptability to old database software
 1. Maybe create a simple model just for that interaction to keep everything seperate

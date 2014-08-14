@@ -48,3 +48,25 @@
 	<sstream>
 	"../../include/webmigrate.h"
 
+1384005083 source:/home/cschrode/Projects/WebMigrate-WPL/main.cpp
+	<boost/filesystem.hpp>
+	<boost/algorithm/string/replace.hpp>
+	<string>
+	<sstream>
+	"include/webmigrate.h"
+
+1384005083 /home/cschrode/Projects/WebMigrate-WPL/include/webmigrate.h
+	<string>
+	<sstream>
+	<fstream>
+	<iostream>
+	<algorithm>
+	<vector>
+	<boost/filesystem.hpp>
+	<boost/algorithm/string/trim.hpp>
+	<boost/algorithm/string/find.hpp>
+	<boost/algorithm/string/replace.hpp>
+
+1384005083 source:/home/cschrode/Projects/WebMigrate-WPL/src/webmigrate.cpp
+	"../include/webmigrate.h"
+

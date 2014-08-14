@@ -1,2 +1,0 @@
-webmigrate input.txt
-pause
